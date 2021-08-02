@@ -7,5 +7,6 @@ namespace TortoiseTest.Models
 {
     public class Nicolas
     {
+        private int Usuario { get; set; }
     }
 }
