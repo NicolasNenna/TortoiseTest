@@ -12,8 +12,6 @@ namespace TortoiseTest.Models
 
         }
         private int Usuario { get; set; }
-        public string Otronombre { get; set; }
-
         public int Edad { get; set; }
     }
 }
